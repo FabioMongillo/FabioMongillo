@@ -20,3 +20,7 @@
     - Email: mongillof@hotmail.com
     - Phone: (438)-523-8764
     - LinkedIn: https://www.linkedin.com/in/fabio-mongillo-117169255/
+
+
+- Blackjack Project:
+https://colab.research.google.com/drive/1b_d7DuL0zyFkIX5D2j274jGgwNlR3z44?usp=sharing
