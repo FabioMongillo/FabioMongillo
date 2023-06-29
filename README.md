@@ -10,6 +10,8 @@
 
 - ⭐ These are the courses I've already completed:
     - Object Oriented Programming I & II
+    - Data Structures and Algorithms
+    - Principles of Programming Languages
     - System Hardware
     - Probability and Statistics
     - Discrete Mathematics
