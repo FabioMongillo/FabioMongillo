@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Fabio. I'm a second year undergraduate student studying Computer Science at Concordia University
+- 👋 Hi, I'm Fabio. I'm a Computer Science graduate from Concordia University
 
 
 - 🌱 I’m currently enrolled in the following courses:
